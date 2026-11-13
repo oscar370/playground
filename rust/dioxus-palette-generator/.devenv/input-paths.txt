@@ -1,0 +1,11 @@
+/home/oscar/.config/nixpkgs/overlays
+/home/oscar/.config/nixpkgs/overlays.nix
+/mnt/d/Proyectos/playground/rust/dioxus-palette-generator/.devenv/bootstrap/bootstrapLib.nix
+/mnt/d/Proyectos/playground/rust/dioxus-palette-generator/.devenv/bootstrap/default.nix
+/mnt/d/Proyectos/playground/rust/dioxus-palette-generator/.devenv/bootstrap/resolve-lock.nix
+/mnt/d/Proyectos/playground/rust/dioxus-palette-generator/.env
+/mnt/d/Proyectos/playground/rust/dioxus-palette-generator/devenv.local.nix
+/mnt/d/Proyectos/playground/rust/dioxus-palette-generator/devenv.lock
+/mnt/d/Proyectos/playground/rust/dioxus-palette-generator/devenv.nix
+/mnt/d/Proyectos/playground/rust/dioxus-palette-generator/devenv.yaml
+/run/user/1000/devenv-ec990e8/processes/native-manager.pid
